@@ -9,7 +9,6 @@ cover:
     image: "/blog/aws-saa-certification/cover.jpeg"
 ---
 
-# Credentials
 ### 🔗 [Paper](https://dl.acm.org/doi/10.1145/142750.142794)
 
 # Introduction
