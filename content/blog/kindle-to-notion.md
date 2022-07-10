@@ -8,11 +8,9 @@ weight: 102
 cover:
     image: "/blog/kindle-to-notion/cover.jpg"
 ---
-
-# ✏️ Intro
 ### 🔗 [Paper](https://dl.acm.org/doi/10.1145/97243.97281)
+# ✏️ Introduction
 
-# Introduction
 The authors of the paper focused on the heuristic analysis of user interfaces. They wanted
 to test and see what could be the best way to identify problems in a user interface. Although
 heuristic analysis is not the only way. It is by far the most practical when compared to other
