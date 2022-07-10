@@ -1,21 +1,16 @@
 ---
-title: "Summary: Extending Fitts' law to two-dimensional
-tasks"
+title: "Summary: Extending Fitts' law to two-dimensional tasks"
 description: "A summary of the research paper authored by : MacKenzie, I. S., & Buxton, W."
 dateString: May 2022
 draft: false
-tags: ["AWS", "AWS SAA", "Certification", "Solutions Architect"]
+tags: ["Human Computer Interaction", "User Interface"]
 weight: 101
 cover:
     image: "/blog/aws-saa-certification/cover.jpeg"
 ---
 
 # Credentials
-### 🔗 [Certificate](https://drive.google.com/file/d/1NLGxG3-Id7lGUFL-SVhMl7mvWb9GYIxS/view?usp=sharing)
-
-### 🔗 [Score Report](https://drive.google.com/file/d/1NMYJElDJ_Li5AVWTZlzh9DT2qmIi-1bG/view?usp=sharing)
-
-### 🔗 [Credly Badge](https://www.credly.com/badges/dfc84bb4-75ab-449f-bdf5-4dc85eb12ad6/public_url)
+### 🔗 [Paper](https://dl.acm.org/doi/10.1145/142750.142794)
 
 # Introduction
 Fitts law: A speed and accuracy model of human movement developed from
