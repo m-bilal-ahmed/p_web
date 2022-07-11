@@ -2,7 +2,7 @@
 title: "Face Dataset Compression using PCA"
 description: "Principal Component Analysis for Image Dataset Compression"
 dateString: Aug 2020
-draft: false
+draft: true
 tags: ["Human Computer Interaction", "User Interface"]
 weight: 105
 cover:
