@@ -1,21 +1,13 @@
 ---
-title: "Backend Engineer"
-description: "BuyerAssist (India)"
-dateString: June 2021 - Ongoing
+title: "Software Engineering Intern"
+description: "Flapmax	(Austin, TX)"
+dateString: May 2022 - Ongoing
 draft: false
-tags: ["TypeScript", "NodeJS", "Express", "MongoDB", "MERN Stack", "AWS"]
+tags: ["Python", "Machine Learning", "Azure", "Cloud Engneering", "DevOps"]
 showToc: false
 weight: 301
 --- 
-
-### Description
-
-- Developed an event-driven serverless integration framework using AWS services like **AppFlow**, **S3**, **Lambda** and **EventBridge**, to sync customer data between Salesforce and BuyerAssist. Through this, I learned to build systems to support bi-directional sync of large volumes of data from multiple sources, perform **CRUD** operations on **MongoDB** as well as **schema design**.
-- Developed a configuration-driven framework to extend the pattern matching capability of **AWS EventBridge**, which **prevented thousands of false invocations of AWS Lambda functions**.
-- Implemented a system to track asynchronous data transfer jobs through AWS AppFlow, which **saved hours of debugging time**.
-- Developed a **Salesforce app** using SFDX to provide clients with a customized experience within their Salesforce dashboard.
-- Developed a **Slack bot** to send interactive daily notifications to customers, and to allow them to take actions directly from Slack. This eliminated the operational resistance and **increased the adoption of our product by over 50%**.
-- Implemented authorization for Slack integration with BuyerAssist using **React** and **OAuth 2.0**
-- Mentored a new recruit for a period of 1 month
-
-![](/experience/buyerassist/img1.jpeg#center)
+### Discription
+▪	Led a development team using Python to build a machine learning model that would *** recognize and classify damaged and undamaged cars based on user provided images. *** 
+▪	Used Scikit learn and image for machine learning and image processing. Used Matplotlib and NumPy for data visualization. *** Improved the accuracy of the model from 56% to 80% *** using a custom data set. Drove a unit test effort to further improve accuracy of model up to 90%
+▪	Led process to deploy the application onto Azure cloud. Used Azure cognitive services for the ML models and Azure custom vision for *** improving the speed and accuracy of processing images by up to 40%. *** 

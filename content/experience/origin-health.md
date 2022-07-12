@@ -1,22 +1,17 @@
 ---
-title: "Software Intern"
-description: "OriginHealth (Singapore)"
-dateString: March 2020 - Aug 2020
+title: "Software Lead"
+description: "E-Button (Turin, Italy)"
+dateString: August 2019 - October 2019
 draft: false
-tags: []
+tags: ["Startup","C++","Python"]
 showToc: false
 weight: 303
 --- 
-## Description
+## Preview
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYctlJDT7oA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Guide:** **Dr. Sripad Krishna Devalla** (co-founder and CTO at OriginHealth)
+### Description
+▪	**Co-founded** a startup that helped rescue operators locate people trapped under rubble after a natural disaster occurs. 
+▪	Built a device & coded it in **C++** to **Increase the efficiency to locate people by 85%**. Device used a motion, heat, and other sensors for an optimal location. Initiated a unit test effort to **improve accuracy of location by 10%**  
+▪	Used **Python (folium & Pandas)** to build an interactive UI and **map** for rescue operators to track people in real time. 
 
-I worked as a remote intern at [**OriginHealth Pte. Ltd.**](https://www.originhealth.ai/) (Singapore), where the company envisions to automate the detection of **birth defects** from **fetal ultrasound scans**, a procedure that demands expertise in **radiology**. 
-
-Here, I developed a configuration-driven framework with data preprocessing pipeline to train deep learning models on **AWS EC2** instances. The framework standardized the training procedure for ML models and **saved more than 100 hours of development time for the ML team**. I also worked on fetal head segmentation using this framework. 
-
-This opportunity provided me with a deeper insight into the applications of AI and Computer Vision in medical diagnosis and taught me to work with little and sensitive data. In addition, **Confluence** was used for documentation and **Jira Software** was used for **Agile Software Development**.
-
-![](/experience/origin-health/img1.jpeg#center)
-![](/experience/origin-health/img2.jpeg)
-![](/experience/origin-health/img3.jpeg)
