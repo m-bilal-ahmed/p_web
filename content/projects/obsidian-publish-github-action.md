@@ -1,9 +1,9 @@
 ---
-title: "Obsidian Publish using GitHub Action"
-description: "A custom GitHub Action to publish Obsidian notes as a website"
+title: "ACM UF's Virtual Envoirment"
+description: "Built a custom VR room for ACM UF"
 dateString: June 2022
 draft: false
-tags: ["AWS", "RegEx", "MkDocs", "GitHub Action", "Docker", "Bash", "TypeScript", "Node.JS"]
+tags: ["Human Computer Interaction", "VR", "UI"]
 weight: 201
 cover:
     image: "/projects/obsidian-publish-github-action/cover.jpg"
