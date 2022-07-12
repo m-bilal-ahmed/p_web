@@ -4,7 +4,7 @@ description: "IIT Madras (India)"
 dateString: May 2019 - July 2019
 draft: false
 tags: []
-showToc: false
+showToc: true
 weight: 304
 --- 
 ### 🔗 [GitHub](https://github.com/arkalim/Tensorflow/tree/master/VLocNet)

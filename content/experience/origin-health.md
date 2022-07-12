@@ -1,5 +1,5 @@
 ---
-title: "Software Lead"
+title: "Software Engineering Lead"
 description: "E-Button (Turin, Italy)"
 dateString: August 2019 - October 2019
 draft: false
