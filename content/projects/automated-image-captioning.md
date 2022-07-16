@@ -3,7 +3,7 @@ title: "Slack Assistant Bot"
 description: "Can computers summarize the contents of an image?"
 dateString: Jan 2021 - May 2021
 draft: false
-tags: ["Python", "PyTorch", "CNN", "LSTM", "CRNN", "DL", "AI"]
+tags: ["Python", "API"]
 showToc: false
 weight: 203
 cover:
