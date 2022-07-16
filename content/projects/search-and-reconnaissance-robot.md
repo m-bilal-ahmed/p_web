@@ -2,7 +2,7 @@
 title: "Search and Reconnaissance Robot"
 description: "An all-terrain robot for disaster management!"
 dateString: Jan 2019 - Mar 2019
-draft: false
+draft: true
 tags: ["C++", "Python", "Raspberry Pi", "Arduino", "Robotics"]
 showToc: false
 weight: 208

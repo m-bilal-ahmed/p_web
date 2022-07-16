@@ -2,7 +2,7 @@
 title: "OpenQuad"
 description: "Open-souce platform for drone automation"
 dateString: July 2019 - Dec 2019
-draft: false
+draft: true
 tags: ["Drone", "Raspberry Pi", "Python", "Computer Vision", "Automation"]
 showToc: false
 weight: 207

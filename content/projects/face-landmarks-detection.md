@@ -2,7 +2,7 @@
 title: "Face Landmarks Detection using CNN"
 description: "Can computers really understand the human face?"
 dateString: May 2020
-draft: false
+draft: true
 tags: ["DL", "AI", "Python", "PyTorch"]
 showToc: false
 weight: 205
