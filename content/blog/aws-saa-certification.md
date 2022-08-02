@@ -1,6 +1,6 @@
 ---
 title: "Summary: Extending Fitts' law to two-dimensional tasks"
-by Mohammed Bilal Ahmed and Nicolas Perez
+Article written by Mohammed Bilal Ahmed and Nicolas Perez
 description: "A summary of the research paper authored by : MacKenzie, I. S., & Buxton, W."
 dateString: May 2022
 draft: false
