@@ -10,8 +10,8 @@ cover:
     # caption: "A sample landmark detection on a photo by Ayo Ogunseinde taken from Unsplash"
     
 ---
-### 🔗 [Paper](https://dl.acm.org/doi/10.1145/97243.97281)
-
+### 🔗 [Paper on which the article is based](https://dl.acm.org/doi/10.1145/97243.97281)
+written by Mohammed Bilal Ahmed and Nicolas Perez
 # Introduction
 The authors of the paper focused on the heuristic analysis of user interfaces. They wanted
 to test and see what could be the best way to identify problems in a user interface. Although
