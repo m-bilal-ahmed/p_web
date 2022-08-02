@@ -1,5 +1,6 @@
 ---
 title: "Summary: Extending Fitts' law to two-dimensional tasks"
+by Mohammed Bilal Ahmed and Nicolas Perez
 description: "A summary of the research paper authored by : MacKenzie, I. S., & Buxton, W."
 dateString: May 2022
 draft: false
@@ -11,7 +12,6 @@ cover:
 
 ### 🔗 [Paper](https://dl.acm.org/doi/10.1145/142750.142794)
 
-by Mohammed Bilal Ahmed and Nicolas Perez
 # Introduction
 Fitts law: A speed and accuracy model of human movement developed from
 research in a machine system for air traffic. The goal of this paper was to use this very
