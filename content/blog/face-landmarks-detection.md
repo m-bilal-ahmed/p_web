@@ -9,7 +9,8 @@ cover:
     image: "/blog/face-landmarks-detection/cover.jpg"
     # caption: "A sample landmark detection on a photo by Ayo Ogunseinde taken from Unsplash"
 ---
-### 🔗 [Paper](https://dl.acm.org/doi/10.1145/97243.97281)
+### 🔗 [Paper on which the article is based](https://dl.acm.org/doi/10.1145/97243.97281)
+written by Mohammed Bilal Ahmed and Nicolas Perez
 # ✏️ Introduction
 Human Computer interaction can be a lot more than just making convenient systems that
 make tasks and work easier. This is shown by the paper we’ll be analyzing: A Brain-Computer Interface and Augmented Reality Neurofeedback to Treat ADHD: A Virtual Telekinesis Approach. The authors of the paper use previous research to describe and justify a new form of Neurofeedback Therapy for kids with ADHD. This new form of NFT uses AR technology as opposed to two dimensional interfaces from the past.

@@ -8,7 +8,8 @@ weight: 102
 cover:
     image: "/blog/kindle-to-notion/cover.jpg"
 ---
-### 🔗 [Paper](https://dl.acm.org/doi/10.1145/97243.97281)
+### 🔗 [Paper on which the article is based](https://dl.acm.org/doi/10.1145/97243.97281)
+written by Mohammed Bilal Ahmed and Nicolas Perez
 # ✏️ Introduction
 
 The authors of the paper focused on the heuristic analysis of user interfaces. They wanted
