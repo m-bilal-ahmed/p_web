@@ -11,6 +11,7 @@ cover:
 
 ### 🔗 [Paper](https://dl.acm.org/doi/10.1145/142750.142794)
 
+by Mohammed Bilal Ahmed and Nicolas Perez
 # Introduction
 Fitts law: A speed and accuracy model of human movement developed from
 research in a machine system for air traffic. The goal of this paper was to use this very
