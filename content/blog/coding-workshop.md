@@ -1,9 +1,9 @@
 ---
-title: "Summary: Extending Fitts' law to two-dimensional tasks"
-description: "A summary of the research paper authored by : MacKenzie, I. S., & Buxton, W."
+title: "A new look into CS education Pt 1."
+description: "A research into CS education and learning software better"
 dateString: May 2022
 draft: false
-tags: ["Human Computer Interaction", "User Interface"]
+tags: ["Computer Science Education", "User Interface","Learning"]
 weight: 101
 cover:
     image: "/blog/aws-saa-certification/cover.jpeg"
