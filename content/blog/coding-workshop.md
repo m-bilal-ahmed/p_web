@@ -6,7 +6,7 @@ draft: false
 tags: ["Computer Science Education", "User Interface","Learning"]
 weight: 101
 cover:
-    image: "/blog/aws-saa-certification/cover.jpeg"
+    image: "/blog/education/education_thumbnail.png"
 ---
 
 ### 🔗 [Paper on which the article is based](https://dl.acm.org/doi/10.1145/142750.142794)
