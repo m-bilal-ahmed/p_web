@@ -45,8 +45,8 @@ params:
   profileMode:
     enabled: true
     title: "Mohammed Bilal Ahmed"
-    subtitle: Current [**Undergrad student in Computer Science**](https://ufl.edu/) at the **University of Florida**<br> A Freelance Web developer 🧑🏻‍💻 <br> **Content Creator** enthusiastic about career & productivity
-    imageUrl: "home/me.jpg"
+    subtitle:  Current **Software Engineer** exploring tech, media, and politics. **Univerty of Florida Alumni** in Computer Science.🧑🏻‍💻
+    imageUrl: "home/me2.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
