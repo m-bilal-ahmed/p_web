@@ -45,7 +45,7 @@ params:
   profileMode:
     enabled: true
     title: "Mohammed Bilal Ahmed"
-    subtitle:  Current **Software Engineer** at R&L carriers. <br> **Univerty of Florida Alumni** in Computer Science.🧑🏻‍💻 <br> Exploring the intersection of tech, media, and politics.</br>
+    subtitle:  Current **Software Engineer** at R&L carriers. <br> **Univerty of Florida Alumni** in Computer Science.🧑🏻‍💻 <br> Exploring the intersection of **tech, media, and politics**.</br>
     imageUrl: "home/meSome1.jpg"
     imageWidth: 220
     imageHeight: 220
