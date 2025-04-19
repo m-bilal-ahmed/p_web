@@ -1,4 +1,3 @@
-# Visualizing-Paths
 ---
 title: "Visualizing Paths: interactive pathfinding visualizer"
 description: "React based interactive pathfinding visualizer"
