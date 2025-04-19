@@ -5,7 +5,7 @@ dateString: May 2024 - Present
 draft: false
 tags: [".NET", "Razor", "React", "jQuery", "Oracle", "Dapper", "REST", "Bootstrap", "HiQPDF"]
 showToc: false
-weight: 304
+weight: 300
 --- 
 ### Discription
 - Utilized **C#** and **.NET MVC architecture with Razor syntax** to develop a responsive inventory application.
