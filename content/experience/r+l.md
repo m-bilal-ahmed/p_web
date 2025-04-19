@@ -3,7 +3,7 @@ title: "Software Engineer / .NET Developer"
 description: "R&L Carriers	(Tampa, FL)"
 dateString: May 2024 - Present
 draft: false
-tags: ["C#", ".NET", "Razor", "React", "jQuery", "Oracle", "Dapper", "REST", "Bootstrap", "HiQPDF"]
+tags: [".NET", "Razor", "React", "jQuery", "Oracle", "Dapper", "REST", "Bootstrap", "HiQPDF"]
 showToc: false
 weight: 301
 --- 
