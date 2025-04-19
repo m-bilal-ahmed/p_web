@@ -1,7 +1,7 @@
 ---
 title: "Software Engineer"
 description: "University of Florida	(Gainesville, FL)"
-dateString: September 2022 - Present
+dateString: September 2022 - May 2024
 draft: false
 tags: ["Python", "Django", "Agile", "Cloud Engneering", "DevOps"]
 showToc: false
