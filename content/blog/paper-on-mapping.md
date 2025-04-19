@@ -1,12 +1,12 @@
 ---
 title: "Summary: Graph-based Spatial Data Processing for Mapping Applications"
 description: "A summary of the research paper authored by Anna L. Smith and Robert T. Johnson"
-dateString: April 2025
+dateString: May 2024
 draft: false
 tags: ["Geospatial Data", "Mapping Algorithms", "Graph Theory", "Routing", "Path-Planning"]
-weight: 102
+weight: 100
 cover:
-    image: "/blog/face-landmarks-detection/cover.jpg"
+    image: "/blog/paper-on-mapping/thumbnail.jpg"
 ---
 ### 🔗 Paper on which the article is based
 written by Mohammed Bilal Ahmed and Nicolas Perez
