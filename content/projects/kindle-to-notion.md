@@ -1,15 +1,15 @@
 ---
-title: "Kindle to Notion"
-description: "A way to seamlessly transfer your Kindle highlights to Notion Database!"
-dateString: Dec 2021
+title: "Gator Carpool"
+description: "A Human Computer Interaction project: We designed an application for student's who wanted to CarPool"
+dateString: June 2022
 draft: false
-tags: ["TypeScript", "Notion", "REST API", "Integration"]
+tags: ["Human Computer Interaction", "UI", "APP"]
 showToc: false
 weight: 202
 cover:
     image: "projects/kindle-to-notion/cover.jpg"
 --- 
-### 🔗 [GitHub](https://github.com/arkalim/kindle-to-notion)
+### 🔗 [Link to the Project](http://gatorcarpool.weebly.com/)
 
 ## Description
-An app built to sync book highlights taken on **Kindle** E-Reader to **Notion**, my productivity management app of choice. The highlights are exported to a text file by Kindle, which is parsed by the app using **RegEx** to be sent to Notion. The app is written in **TypeScript** and involves interfacing with **Notion API** to perform **CRUD** operations on Notion Database. The app also features caching to prevent resyncing of old highlights.
+We designed an application keeping user design in mind. We focused on Human Computer interaction to maximize user experience. We created multiple personas to help us better understand user needs. A more detailed discription can be found on the link above.

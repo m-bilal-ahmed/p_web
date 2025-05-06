@@ -1,4 +1,4 @@
-baseURL: "https://arkalim.org"
+baseURL: "https://mdbilalahmed.netlify.app/"
 languageCode: en-us
 title: Mohammed Bilal Ahmed
 theme: PaperMod
@@ -29,10 +29,6 @@ menu:
     #   name: Tags
     #   url: /tags
     #   weight: 60
-    - identifier: notes
-      name: Notes
-      url: https://notes.arkalim.org
-      weight: 70
 
 params:
   # theme
@@ -48,9 +44,9 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Incoming [**MSc in Applied Computing**](https://mscac.utoronto.ca/) at the **University of Toronto**, Canada 🇨🇦<br>Backend Engineer 🧑🏻‍💻 at [**BuyerAssist.io**](https://buyerassist.io/), a B2B startup based in India 🇮🇳<br>B.Tech. in Electronics & Communication Engineering at **NIT Trichy**, India 🇮🇳<br>**YouTuber** 🎬 who makes videos on career, higher education & productivity
-    imageUrl: "home/me.jpg"
+    title: "Mohammed Bilal Ahmed"
+    subtitle:  Current **Software Engineer** at R&L carriers. <br> **Univerty of Florida Alumni** in Computer Science.🧑🏻‍💻 <br> Exploring the intersection of **tech, media, and politics**.</br>
+    imageUrl: "home/meSome1.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -67,15 +63,15 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:m.bilalahmed2k@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/mohammed-bilal-ahmed-782501177/"
     - name: "github"
-      url: "https://github.com/arkalim"
+      url: "https://github.com/m-bilal-ahmed"
     - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://www.youtube.com/channel/UCvgrxCmtT1F6WmmVwAxhmcg"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
+      url: "https://drive.google.com/file/d/19Nw4ekv3YEDJlWFbOOZ6RebvOmovJarD/view?usp=sharing"
 
   # text search
   fuseOpts:
